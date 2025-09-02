@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.GLASS"
+      },
+      {
+        "value": "Items.TROPICAL_FISH_BUCKET"
+      },
+      {
+        "value": "Blocks.GLASS"
+      },
+      {
+        "value": "Items.AXOLOTL_BUCKET"
+      },
+      {
+        "value": "Blocks.CHEST"
+      },
+      {
+        "value": "Items.TADPOLE_BUCKET"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "Items.DIAMOND"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:InfinityPexeCell"
+    },
+    "name": "infinity_pexe_cell_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,11 +1,48 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "InfinityPexeCell",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infinity_pexe_cell",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/appliedpexe/items/infinity_pexe_cell.json",
+          "src/main/java/net/mcreator/appliedpexe/item/InfinityPexeCellItem.java",
+          "src/main/resources/assets/appliedpexe/models/item/infinity_pexe_cell.json"
+        ]
+      }
+    },
+    {
+      "name": "InfinityPexeCellRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "infinity_pexe_cell_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/appliedpexe/recipe/infinity_pexe_cell_recipe.json"
+        ]
+      }
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "tag_elements": {},
   "tab_element_order": {},
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.appliedpexe.infinity_pexe_cell": "Infinity Pexe Cell"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/net/mcreator/appliedpexe/AppliedpexeMod.java",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/net/mcreator/appliedpexe/init/AppliedpexeModItems.java"
+    ]
   },
   "foldersRoot": {
     "name": "~",

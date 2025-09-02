@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cde",
+    "fff"
+  ],
+  "key": {
+    "a": "minecraft:glass",
+    "b": "minecraft:tropical_fish_bucket",
+    "c": "minecraft:axolotl_bucket",
+    "d": "minecraft:chest",
+    "e": "minecraft:tadpole_bucket",
+    "f": "minecraft:diamond"
+  },
+  "result": {
+    "id": "appliedpexe:infinity_pexe_cell",
+    "count": 1
+  }
+}
