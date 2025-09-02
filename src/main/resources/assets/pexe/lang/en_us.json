@@ -1,0 +1,13 @@
+{
+  "itemGroup.pexe": "Example Mod Tab",
+  "block.pexe.example_block": "Example Block",
+  "item.pexe.example_item": "Example Item",
+
+  "pexe.configuration.title": "Pexe Configs",
+  "pexe.configuration.section.pexe.common.toml": "Pexe Configs",
+  "pexe.configuration.section.pexe.common.toml.title": "Pexe Configs",
+  "pexe.configuration.items": "Item List",
+  "pexe.configuration.logDirtBlock": "Log Dirt Block",
+  "pexe.configuration.magicNumberIntroduction": "Magic Number Text",
+  "pexe.configuration.magicNumber": "Magic Number"
+}
